@@ -1,0 +1,48 @@
+.header {
+    background-color: rgb(255, 255, 0);
+    border: 1px solid black;
+    height: 140px;
+    width: 100%;
+}
+.buttocontainer {
+    display: flex;
+    height: 30px;
+    flex-direction: row;
+    gap: 150px;
+    margin-top: 15px;
+    justify-content: flex-start;
+}
+.button1, .button2, .button3, .button4 {
+    background-color: rgb(250, 177, 190);
+    border: solid black 1px;
+    height: 30px;
+    width: 10px;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+}
+.aside {
+    background-color: rgb(160, 160, 158);
+    border: solid black 1px;
+    width: 30px;
+    height: 260px;
+    margin-top: 15px;
+}
+.main {
+    background-color: rgb(16, 236, 236);
+    border: solid black 1px;
+    width: 100%;
+    height: 200px;
+    margin-top: 15px;
+    width: 100%;
+    height: 260px;
+    margin-top: 15px;
+}
+.footer {
+    background-color: rgb(86, 86, 231);
+    border: solid black 1px;
+    width: 100%;
+    height: 140px;
+    margin-top: 15px;
+}

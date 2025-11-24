@@ -1,0 +1,34 @@
+.container {
+    display: flex;
+    gap: 30px;
+
+}
+
+.box {
+    width: 200px;
+    height: 350px;
+}
+
+.middle {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+}
+.blue {
+    height: 160px;
+    background-color: steelblue;
+
+}
+.gray {
+    height: 160px;
+    background-color: gray;
+
+}
+.yellow {
+    background-color: yellow;
+
+}
+.cyan {
+    background-color: cyan;
+}

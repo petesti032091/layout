@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    gap: 30px;
+
+}
+
+.left {
+    width: 50%;
+    height: 400px;
+
+}
+
+.right {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+}
+
+.blue {
+    height: 150px;
+    background-color: blue;
+
+}
+.gray {
+    height: 150px;
+    background-color: gray;
+
+}
+.yellow {
+    background-color: yellow;
+    width: 900px;
+    
+}

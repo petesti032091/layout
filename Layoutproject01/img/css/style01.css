@@ -1,0 +1,19 @@
+.header {
+    background-color: darkorange;
+    border: 2px black solid;
+    height: 300px;
+    padding-left: 10px;   
+
+}
+.main {
+    background-color: rgb(139, 145, 151);
+    border: 2px black solid;
+    height: 300px;
+    text-align: center;
+}
+.footer {
+    background-color: rgb(84, 84, 226);
+    border: 2px black solid;
+    height: 300px;
+    padding-left: 10px;
+}
